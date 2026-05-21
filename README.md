@@ -1,5 +1,5 @@
 # Interactive UI &amp; Frontend Development
-# Responsive Login & Registration UI
+Responsive Login & Registration UI
 A modern and responsive Login & Registration frontend project built using **HTML5, CSS3, JavaScript, Bootstrap 5, AJAX, and PHP**.
 
 This project demonstrates:
